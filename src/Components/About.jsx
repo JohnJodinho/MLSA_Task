@@ -16,27 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background_.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "John Ibrahim - This is the background photo for my portfolio site";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+"I'm a Mechanical Engineering studentjm  at the University of Jos, blending Arduino prowess, Azure IoT Central skills, and Power Platform development. As a Microsoft Learn Student Ambassador, I bridge innovation and technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Microsoft Learn Student Ambassador",
+  "Internet of Things and Embedded Systems",
+  "Power Apps",
+  "Robotics",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+"I'm fueled by a passion for innovative problem-solving, constantly seeking novel ways to make technology accessible and impactful. Through my skills in IoTs, Robotics and Power Platform, I strive to drive meaningful change.";
 
 const About = () => {
   return (
